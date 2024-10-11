@@ -95,11 +95,4 @@ This project is open-source and available under the **MIT License**.
 
 ```
 
-### Improvements:
-- **Organized sections**: Clear headings and subheadings to make it easy for users to navigate.
-- **Usage instructions**: Clearly explains how the bot works, with real-world usage examples.
-- **Project structure**: Gives users a quick overview of the project files.
-- **Configuration**: Instructions on how to customize timezone settings and alert user IDs.
-- **Troubleshooting**: A basic guide to handle common issues.
 
-This version should now be ready for your GitHub repository, with all details provided in a clean and structured format!
