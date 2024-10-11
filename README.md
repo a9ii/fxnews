@@ -1,5 +1,3 @@
-إليك ملف `README.md` مناسب لمشروع البوت على GitHub. الملف يشرح بالتفصيل كيفية استخدام البوت مع بعض الإيموجي لتسهيل التوضيح وجعله أكثر جاذبية.
-
 ```markdown
 # 📰 Forex News Bot for Telegram 📊
 
@@ -26,6 +24,7 @@ A Telegram bot that fetches high-impact economic news related to USD currency fr
    ```bash
    git clone https://github.com/yourusername/forex-news-bot.git
    cd forex-news-bot
+```
    ```
 
 2. Update the bot configuration:
