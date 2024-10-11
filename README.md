@@ -93,6 +93,5 @@ Feel free to fork this repository and submit pull requests. Any contributions th
 
 This project is open-source and available under the **MIT License**.
 
-```
 
 
