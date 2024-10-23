@@ -32,14 +32,14 @@ cd YOUR_REPOSITORY
 ### 3. **Set Up a Cron Job (Optional):**
 To automate the script execution, schedule it to run every 5 minutes using cron jobs:
 ```bash
-*/5 * * * * /usr/bin/php /path_to_your_script/script.php
+* * * * * /usr/bin/php /path_to_your_script/bot.php
 ```
 This ensures the bot checks for news updates and sends alerts on time. ⏳
 
 ### 4. **Run the Script:**
 You can manually run the script with PHP for testing purposes:
 ```bash
-php script.php
+php bot.php
 ```
 
 ## 🔍 How It Works
