@@ -13,8 +13,8 @@ This PHP script automates the process of fetching and sending important economic
 
 ### 1. **Clone the Repository:**
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-cd YOUR_REPOSITORY
+git clone https://github.com/a9ii/fxnews.git
+cd fxnews
 ```
 
 ### 2. **Configure the Script:**
